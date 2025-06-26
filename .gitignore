@@ -1,0 +1,39 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# YOLOv8 output folders
+runs/
+ultralytics/
+license-plate-finder-ind-1/
+
+# Model weights
+*.pt
+
+# Data folders (optional - keep if you include small demo data)
+*.zip
+*.tar.gz
+*.h5
+*.ckpt
+
+# Videos/images
+*.mp4
+*.avi
+*.mov
+*.mkv
