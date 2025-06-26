@@ -6,7 +6,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-success)
 ![OCR](https://img.shields.io/badge/OCR-EasyOCR-lightgrey)
 ![Pandas](https://img.shields.io/badge/Pandas-Used-purple)
-![Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rds-124/ANPR-YOLOv8/blob/main/ANPR_YOLOv8.ipynb)
+
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-informational)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Colab-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blueviolet)
